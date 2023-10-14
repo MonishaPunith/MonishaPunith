@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MonishaPunith
--   Thanks for stopping by!
-- 🌱 I’m currently a doctoral candidate in Economics at the University of Antwerp.
+- 👋🏼 Hi, I’m @MonishaPunith
+- 👨🏼‍🚀 Thanks for stopping by!
+- 🎓 I’m currently a doctoral candidate in Economics at the University of Antwerp.
 - 📫 Reach me at monisha.punith@uantwerpen.be
 
 <!---
